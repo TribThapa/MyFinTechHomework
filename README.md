@@ -11,15 +11,13 @@ I aim to transition into finance with the hope of using blockchain technology in
 I chose FinTech as a course because it combines my passion in programming and finance.
 
 
-
-
 ### Table of contents
 
-- [code](#code)
-- [data](#data)
-- [images](#images)
-- [references](#references)
-- [Pets](#pets)
+- [code](code/)
+- [data](data/)
+- [images](images/)
+- [references](references/)
+- [Pets](pets/)
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
 

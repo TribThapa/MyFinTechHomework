@@ -13,11 +13,11 @@ I chose FinTech as a course because it combines my passion in programming and fi
 
 ### Table of contents
 
-- [code](code/)
-- [data](data/)
-- [images](images/)
-- [references](references/)
-- [Pets](pets/)
+- [code](https://github.com/TribT/MyFinTechHomework/tree/main/code/)
+- [data](https://github.com/TribT/MyFinTechHomework/tree/main/data/)
+- [images](https://github.com/TribT/MyFinTechHomework/tree/main/images/)
+- [references](https://github.com/TribT/MyFinTechHomework/tree/main/references/)
+- [pets](https://github.com/TribT/MyFinTechHomework/tree/main/pets/)
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
 

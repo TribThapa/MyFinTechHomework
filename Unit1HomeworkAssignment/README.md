@@ -11,6 +11,7 @@ To test the waters, _Chris Bayley_ and _Angus McDonald_ engaged global insurers 
 
 Cover Genius was not VC funded and the small rounds were been funded by London-based insurance executives including Jim Sutcliffe, former Chair of Sun Life Canada and Julian Roberts, former CEO of Old Mutual.
 
+![Founders](https://github.com/TribT/MyFinTechHomework/tree/main/Unit1HomeworkAssignment/images/Founders.JPG)
 
 
 ## Business activities

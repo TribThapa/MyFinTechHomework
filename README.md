@@ -10,11 +10,6 @@ I aim to transition into finance with the hope of using blockchain technology in
 
 I chose FinTech as a course because it combines my passion in programming and finance.
 
-### Table of contents
-
-| ## Table of contents |
-------------------------
-| ### code             |    
-### data
-### images
-### references
+- [MyFinTechHomework - This is a level 1 header](#myfintechhomework---this-is-a-level-1-header)
+  - [My name is Tribikram Thapa (Rana) - This is a level 2 header](#my-name-is-tribikram-thapa-rana---this-is-a-level-2-header)
+    - [I have a background in Physiotherapy, and currently work as a Research Fellow at Monash University - This is a level 3 header](#i-have-a-background-in-physiotherapy-and-currently-work-as-a-research-fellow-at-monash-university---this-is-a-level-3-header)

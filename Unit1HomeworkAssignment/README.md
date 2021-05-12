@@ -41,10 +41,12 @@ JLT Australia              | $149.6M |         680         |       N/A
 
 Despite several webpages comparing *Cover Genius* to other FinTech companies, _Chris Bayley_ claims their main competitors remain the traditional insurers who lack the digital platform and the effieciency that comes with it. See [here.](https://www.ft.com/content/1d5aabcc-5d44-11ea-ac5e-df00963c20e6)
 
-# The technologies being used by *Cover Genius* are:
-- _Brightwrite:_ is a data analytics platform that recommends product bundles and optimizes price for any Cover Genius partner. 
+### Technologies being used by *Cover Genius*:
+- _Brightwrite:_ a data analytics platform that recommends product bundles and optimizes price for any Cover Genius partner 
 - _API:_ for seamless policy recommendation tailored to the customer and to ensure instant payments in any currency
-
+- _HTML5_, _Google Analytics_, _jQuery_: used in APIs to customise insurance policy for the customer
+- _SPF_: stands for 'Sender Policy Framework' which is a email verification technology used to prevent email spoofing. It works by verifying that an email message is sent from an authorised IP address
+- _SSL_: stands for 'Secure Sockets Layer' which is a protocol developed for sending information securely over the internet. Many websites use SSL to secure areas of their sites, such as user account pages and online checkout
 
 
 ## Landscape
@@ -72,3 +74,6 @@ Despite several webpages comparing *Cover Genius* to other FinTech companies, _C
 4. https://www.afr.com/technology/cover-genius-scores-15m-on-the-back-of-ebay-shopee-deals-20201006-p562fv
 5. https://growjo.com/company/Cover_Genius
 6. https://www.ft.com/content/1d5aabcc-5d44-11ea-ac5e-df00963c20e6
+7. https://www.crunchbase.com/organization/cover-genius/technology
+8. https://techterms.com/definition/spf
+9. https://www.linkedin.com/company/cover-genius/?originalSubdomain=au

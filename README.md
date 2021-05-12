@@ -12,9 +12,9 @@ I chose FinTech as a course because it combines my passion in programming and fi
 
 ### Table of contents
 
-|Folders|
+## Table of contents 
 ---------
-### code
+1. [code] (### code)
 ### data
 ### images
 ### references

@@ -9,3 +9,12 @@
 I aim to transition into finance with the hope of using blockchain technology in the banking sector. 
 
 I chose FinTech as a course because it combines my passion in programming and finance.
+
+### Table of contents
+
+|Folders|
+---------
+### code
+### data
+### images
+### references

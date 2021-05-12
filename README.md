@@ -27,3 +27,4 @@ I chose FinTech as a course because it combines my passion in programming and fi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TribT&layout=compact&theme=dark&title_color=Blue)](https://github.com/TribT/github-readme-stats)
 
+![ProgrammingPic](https://github.com/TribT/MyFinTechHomework/blob/main/images/BrainStim.gif)

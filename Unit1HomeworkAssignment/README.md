@@ -19,8 +19,8 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 
 
 
-[XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
-[XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
+![XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
+![XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
 ## Landscape
 
 

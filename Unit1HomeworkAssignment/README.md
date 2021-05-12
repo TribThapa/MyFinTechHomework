@@ -18,17 +18,29 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 
 The company's intended customers are e-commercial platforms from all over the globe. Some examples include *eBay*, *Shopee*, *IcelandAir*, *OLA*, and *ShipStation*. There is no information about the market size of their set of customers. However, with growing use of e-commercial platforms and e-businesses, *Cover Genius* aims to tap into e-markets all over the world. 
 
-# Versus the competition 
-Company Name               | Revenue | Number of Employees | Employee Growth
--------------------------- | ------- | ------------------- | ---------------
-Cover Genius               |
-Claim Central Consolidated |
-
-
-
+### XCover
 ![XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
 
+### XClaim
 ![XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
+
+
+### Versus the competition 
+Company Name               | Revenue | Number of Employees | Employee Growth
+-------------------------- | ------- | ------------------- | ---------------
+Cover Genius               | $34.5M  |         157         |       11%
+Claim Central Consolidated | $48.6M  |         221         |       26%
+Open                       | $590.5M |         2684        |       N/A
+Procare Group              | $45.3M  |         206         |       19% 
+Hunter Premium             | $29.9M  |         136         |       N/A
+Achmea                     | $76.8M  |         349         |       17%
+BizCover                   | $28.8M  |         131         |       17%
+Belfius Insurance          | $364.5M |         1657        |       N/A
+Coverforce                 | $45.5M  |         207         |       N/A
+JLT Australia              | $149.6M |         680         |       N/A
+
+
+
 ## Landscape
 
 
@@ -52,3 +64,4 @@ Claim Central Consolidated |
 2. https://tieronepeople.com/2018/04/15/chris-bayley-cover-genius/
 3. https://thefintechtimes.com/cover-genius/
 4. https://www.afr.com/technology/cover-genius-scores-15m-on-the-back-of-ebay-shopee-deals-20201006-p562fv
+5. https://growjo.com/company/Cover_Genius

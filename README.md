@@ -1,6 +1,6 @@
 # MyFinTechHomework - This is a level 1 header
 
-![ProgrammingPic](https://github.com/TribT/MyFinTechHomework.git/images/Computer_Programmer.jpg)
+![ProgrammingPic](https://github.com/TribT/MyFinTechHomework/blob/main/images/Computer_Programmer.jpg)
 
 ## My name is Tribikram Thapa (Rana) - This is a level 2 header
 

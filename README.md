@@ -12,9 +12,9 @@ I chose FinTech as a course because it combines my passion in programming and fi
 
 ### Table of contents
 
-## Table of contents 
-
-### code
+| ## Table of contents |
+------------------------
+| ### code             |    
 ### data
 ### images
 ### references

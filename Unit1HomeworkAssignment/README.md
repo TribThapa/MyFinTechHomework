@@ -14,12 +14,20 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 
 
 ## Business activities
-*Cover Genius* aims fill the void of a global insurer that sells insurance policies to customers all over the world. 
+*Cover Genius* aims fill the void of a global insurer that sells insurance policies to customers all over the world. They achieve this goal by allowing e-commericial platforms to offer insurance policies to their customers through *Cover Genius'* [_XCover_](https://www.covergenius.com/xcover/) and [XClaim](https://www.covergenius.com/xclaim/) platforms. XCover uses 'RESTful' API to optimise price and products in real-time for customers in 60 coutnries and 50 US states while XClaim uses another API (called XClaim) to make instant payments in any form e.g., store credits, bank transfer, or to digital wallets.
 
+The company's intended customers are e-commercial platforms from all over the globe. Some examples include *eBay*, *Shopee*, *IcelandAir*, *OLA*, and *ShipStation*. There is no information about the market size of their set of customers. However, with growing use of e-commercial platforms and e-businesses, *Cover Genius* aims to tap into e-markets all over the world. 
+
+# Versus the competition 
+Company Name               | Revenue | Number of Employees | Employee Growth
+-------------------------- | ------- | ------------------- | ---------------
+Cover Genius               |
+Claim Central Consolidated |
 
 
 
 ![XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
+
 ![XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
 ## Landscape
 

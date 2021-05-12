@@ -21,4 +21,6 @@ I chose FinTech as a course because it combines my passion in programming and fi
 - [references](#references)
 - [Pets](#pets)
 
-[![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true#&theme=dak)](https://github.com/TribT/github-readme-stats)
+<!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
+
+![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&theme=dark&show_icons=true)

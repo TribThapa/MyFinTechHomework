@@ -14,10 +14,13 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 
 
 ## Business activities
+*Cover Genius* aims fill the void of a global insurer that sells insurance policies to customers all over the world. 
 
 
 
 
+[XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
+[XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
 ## Landscape
 
 
@@ -40,4 +43,4 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 1. https://www.covergenius.com/
 2. https://tieronepeople.com/2018/04/15/chris-bayley-cover-genius/
 3. https://thefintechtimes.com/cover-genius/
-4. 
+4. https://www.afr.com/technology/cover-genius-scores-15m-on-the-back-of-ebay-shopee-deals-20201006-p562fv

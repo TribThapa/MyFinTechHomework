@@ -13,11 +13,13 @@ I chose FinTech as a course because it combines my passion in programming and fi
 
 ### Table of contents
 
-- [code](https://github.com/TribT/MyFinTechHomework/tree/main/code/)
-- [data](https://github.com/TribT/MyFinTechHomework/tree/main/data/)
-- [images](https://github.com/TribT/MyFinTechHomework/tree/main/images/)
-- [references](https://github.com/TribT/MyFinTechHomework/tree/main/references/)
-- [pets](https://github.com/TribT/MyFinTechHomework/tree/main/pets/)
+- [code](https://github.com/TribThapa/MyFinTechHomework/tree/main/code/)
+- [data](https://github.com/TribThapa/MyFinTechHomework/tree/main/data/)
+- [images](https://github.com/TribThapa/MyFinTechHomework/tree/main/images/)
+- [pets](https://github.com/TribThapa/MyFinTechHomework/tree/main/pets/)
+- [references](https://github.com/TribThapa/MyFinTechHomework/tree/main/references/)
+- [Unit1Day3_Activity](https://github.com/TribThapa/MyFinTechHomework/tree/main/Unit1Day3_Activity/)
+- [Unit1_Assignment](https://github.com/TribThapa/MyFinTechHomework/tree/main/Unit1Day3_Assignment/)
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
 

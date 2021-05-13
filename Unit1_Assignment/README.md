@@ -10,7 +10,7 @@ To test the waters, _Chris Bayley_ and _Angus McDonald_ engaged global insurers 
 
 When establishing the company, *Cover Genius* was not VC funded and the small rounds were been funded by London-based insurance executives including _Jim Sutcliffe_, former Chair of Sun Life Canada and _Julian Roberts_, former CEO of Old Mutual.
 
-![Founders](/Unit1HomeworkAssignment/images/Founders.JPG)
+![Founders](/Unit1_Assignment/images/Founders.JPG)
 
 
 ## Business activities
@@ -19,10 +19,10 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 The company's intended customers are e-commercial platforms from all over the globe. Some examples include *eBay*, *Shopee*, *IcelandAir*, *OLA*, and *ShipStation*. There is no information about the market size of their set of customers. However, with growing use of e-commercial platforms and e-businesses, *Cover Genius* aims to tap into e-markets all over the world. 
 
 ### XCover
-![XCover](/Unit1HomeworkAssignment/images/XCover_HowItWorks.JPG)
+![XCover](/Unit1_Assignment/images/XCover_HowItWorks.JPG)
 
 ### XClaim
-![XClaim](/Unit1HomeworkAssignment/images/XClaim_HowItWorks.JPG)
+![XClaim](/Unit1_Assignment/images/XClaim_HowItWorks.JPG)
 
 
 ### Versus the competition 

@@ -48,8 +48,49 @@ Despite several webpages comparing *Cover Genius* to other FinTech companies, _C
 - _SPF_: stands for 'Sender Policy Framework' which is a email verification technology used to prevent email spoofing. It works by verifying that an email message is sent from an authorised IP address
 - _SSL_: stands for 'Secure Sockets Layer' which is a protocol developed for sending information securely over the internet. Many websites use SSL to secure areas of their sites, such as user account pages and online checkout
 
+Get financials / public statements
+
 
 ## Landscape
+
+### Major trends and innovations over the last 5 to 10 years
+
+#### 1. Digitise or die
+    - Major trends to use APIs and or microservices architecture to work around transactional legacy systems but also allow interconnectivity with many other systems
+    - Robotic Process Automation deployed to offer better customer interaction and data harvesting
+    - Increased investment in customer-facing digital platforms, intelligent automation to streamline processes, and develop smart contracts for claims and predicitive underwriting
+
+#### 2. Rocking ecosystem 
+    - Biometric security has been adopted to make micropayments simple. The quicker and easier the transaction, the more loyal the customer becomes
+    - Efficient management of millions of micropayments have allowed insurtech companies like Zhong An in China to thrive
+    - One-stop-shop with a multi-faceted experience determine winners and losers (e.g., Tencent is a platform that combines payment, social media, and contextual messaging(WeChat)). This platform generates 38 billion messages everyday, producing a rich source of data to feedback to insurers' analytics engines  
+
+#### 3. The reset button 
+    - Reduced dependence on legacy systems with improved access to data
+    - Changed focus from manufacturing, selling and marketing of products to keeping the customer satisfied
+    - New systems segment customers based upon behaviour and how they interact with the insurer and influence risk within the policy
+  
+#### 4. Digital risk reduction
+    - Data from wearables are now being used as a source of risk assessment, risk mitigation, and data credibility
+    - Use of health data has allowed insurtech companies to tailor policies to the individual and take part in a health ecosystem
+
+#### 5. The digital customer
+    - More focus on digital content marketing as today's customers have moved increased do no call lists, and more engaged with messaging
+    - Products that offer break periods or the ability to post-pone payment without the policiy being cancelled may be features that could widen the customer base
+
+#### 6. Data is the new oil - and the price is going up! 
+    - While big data influences customer engagement and policy making, insurtech comapnies are now working to improve customer trust
+    - Insurtech companies that lack big data or the partners that will help them analyse the data are looking to have their business model challenged 
+    - AI and Machine learning have now been adopted across the value chain to improve efficiency and increase customer satisfaction
+
+#### 7. Disruption 
+    - Mobility as a service (MAAS), where a car use is consumed as a service is growing in many metropolitan areas
+    - Insurers hint at a profitable auto insurance business is not a race to the bottom but rather by developing an auto insurance ecosystem that starts at the car's dashboard
+    - Auto makers may take control of this value chain and needs to be considered  
+
+#### 8. Adapt or die
+    - Underwriters and actuaries with data science skills now lead the charge in reassessing and enhancing the statistical approach to traditional underwriting, armed with a treasury of customer behaviour data, AI, and Machine learning
+    - While the main focus is on the customer, Insurtech companies are now also trying to educate and enhance the experience of the employee to retain skills for the new market
 
 
 
@@ -60,8 +101,11 @@ Despite several webpages comparing *Cover Genius* to other FinTech companies, _C
 
 
 ## Recommendations
-
-
+- Frictionless money 
+- Those without bank accounts
+- Cahsback rewards program
+- Pricing model when paying within the same currency, between different currencies, and between different value (e.g., store credit vs US dollar vs AUD)
+- Global currency - digital tokens that represent Fiat money to smooth out pain points / cryptocurrency
 
 
 
@@ -77,3 +121,4 @@ Despite several webpages comparing *Cover Genius* to other FinTech companies, _C
 7. https://www.crunchbase.com/organization/cover-genius/technology
 8. https://techterms.com/definition/spf
 9. https://www.linkedin.com/company/cover-genius/?originalSubdomain=au
+10. https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/03/insurtech-trends-2019.pdf

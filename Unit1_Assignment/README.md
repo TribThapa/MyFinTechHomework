@@ -2,7 +2,7 @@
 
 ## Overview and origin
 
-[*CoverGenius*](https://www.covergenius.com/) is a global insurance technology company with offices in New York, San Francisco, London, Amsterdam, Tokyo, Singapore, Seoul, Kuala Lumpur, Manila, and Sydney. Their vision is to protect all customers of the world's largest online companies. *CoverGenius* was founded by _Chris Bayley_ and _Angus McDonald_ in 2014, when it launched its first 'full stack' insurance distribution platform for mobility, retail, travel, and share-economy partners in Europe. 
+[**CoverGenius**](https://www.covergenius.com/) is a global insurance technology company with offices in New York, San Francisco, London, Amsterdam, Tokyo, Singapore, Seoul, Kuala Lumpur, Manila, and Sydney. Their vision is to protect all customers of the world's largest online companies. *CoverGenius* was founded by _Chris Bayley_ and _Angus McDonald_ in 2014, when it launched its first 'full stack' insurance distribution platform for mobility, retail, travel, and share-economy partners in Europe. 
 
 *CoverGenius* came about when _Chris Bayley_ and _Angus McDonald_ had the vision of empowering the world's largest e-commerce companies to sell insurance products. This idea initially stemmed from _Chris Bayley_ who previoulsy ran the insurance team at Google. There he saw commerical opportunities for selling insurance online but felt he lacked the right model. Subsequently, they found an opportunity with a sizeable nice that was currenlty being overlooked - Car Rental Insurance. Then, the Car Rental Insurance industry was worth US $7 billion globally, of which US $6 billion was profit. 
 
@@ -14,7 +14,7 @@ When establishing the company, *Cover Genius* was not VC funded and the small ro
 
 
 ## Business activities
-*Cover Genius* aims fill the void of a global insurer that sells insurance policies to customers all over the world. They achieve this goal by allowing e-commericial platforms to offer insurance policies to their customers through *Cover Genius'* [_XCover_](https://www.covergenius.com/xcover/) and [XClaim](https://www.covergenius.com/xclaim/) platforms. XCover uses 'RESTful' API to optimise price and products in real-time for customers in 60 coutnries and 50 US states while XClaim uses another API (called XClaim) to make instant payments in any form e.g., store credits, bank transfer, or to digital wallets.
+*Cover Genius* aims fill the void of a global insurer that sells insurance policies to customers all over the world. They achieve this goal by allowing e-commericial platforms to offer insurance policies to their customers through *Cover Genius'* [_XCover_](https://www.covergenius.com/xcover/) and [_XClaim_](https://www.covergenius.com/xclaim/) platforms. XCover uses 'RESTful' API to optimise price and products in real-time for customers in 60 coutnries and 50 US states while XClaim uses another API (called XClaim) to make instant payments in any form e.g., store credits, bank transfer, or to digital wallets.
 
 The company's intended customers are e-commercial platforms from all over the globe. Some examples include *eBay*, *Shopee*, *IcelandAir*, *OLA*, and *ShipStation*. There is no information about the market size of their set of customers. However, with growing use of e-commercial platforms and e-businesses, *Cover Genius* aims to tap into e-markets all over the world. 
 
@@ -28,7 +28,7 @@ The company's intended customers are e-commercial platforms from all over the gl
 ### Versus the competition 
 Company Name               | Revenue | Number of Employees | Employee Growth
 -------------------------- | ------- | ------------------- | ---------------
-Cover Genius               | $34.5M  |         157         |       11%
+CoverGenius                | $34.5M  |         157         |       11%
 Claim Central Consolidated | $48.6M  |         221         |       26%
 Open                       | $590.5M |         2684        |       N/A
 Procare Group              | $45.3M  |         206         |       19% 
@@ -77,11 +77,13 @@ Get financials / public statements
 #### 5. The digital customer
     - More focus on digital content marketing as today's customers have moved increased do no call lists, and more engaged with messaging
     - Products that offer break periods or the ability to post-pone payment without the policiy being cancelled may be features that could widen the customer base
+    - Interaction with customers has moved from policy anniversaries and renewal periods to a needs-basis
 
 #### 6. Data is the new oil - and the price is going up! 
     - While big data influences customer engagement and policy making, insurtech comapnies are now working to improve customer trust
     - Insurtech companies that lack big data or the partners that will help them analyse the data are looking to have their business model challenged 
     - AI and Machine learning have now been adopted across the value chain to improve efficiency and increase customer satisfaction
+    - Traditional categories of age, sex, location, ethnicity, etc are obsolete as customers are increasingly segmented based upon behaviour dervied from rich datasets
 
 #### 7. Disruption 
     - Mobility as a service (MAAS), where a car use is consumed as a service is growing in many metropolitan areas
@@ -101,14 +103,14 @@ Get financials / public statements
 
 
 ## Recommendations
-- Frictionless money 
-- Those without bank accounts
-- Cahsback rewards program
-- Pricing model when paying within the same currency, between different currencies, and between different value (e.g., store credit vs US dollar vs AUD)
-- Global currency - digital tokens that represent Fiat money to smooth out pain points / cryptocurrency
-
-
-
+- *CoverGenius* will need to promote the use of frictionless money (i.e., reduced transcation cost) to be appealing to customers outside of its main markets. Especially, for customers in Asia, Africa, and the Middle East where transcation fees are high.
+- To further their customer base, *CoverGenius* will need to think about potential customers withouth bank accounts. While digital transformation is central to the company's growth, it is also important to ensure those with limited access or from under-priviledged countries/cities/areas are not forgotton.
+- Perhaps, a cashback rewards program similar to those used by many banks and e-commerce platforms can help finance accessing customers with no bank accounts.
+- As the business grows, *CoverGenius* will need to consider complementing indemnity of risk by risk prevention. An avenue worth exploring for market expansion and business scalabity.
+- Cryptocurrency is here to stay. While it is a volatile asset class, *CoverGenius* will need to consider including cryptocurrency in their current pricing model to access an untapped market. 
+- The adoption of cryptocurrency may also help ease pain points seen with Fiat currency. Example, in nations where their local currency is devalued or in countries where citizens want to avoid control from a central bank.
+- Further, the adoption of cryptocurrency, implies use of blockchain technology which can be used to safeguard customer data, recommend efficient insurance policies, and help build customer trust. Specially, in today's world where customer's are hesitant to share data for invasion of privacy.  
+- While *CoverGenius* personalises insurance policies to the individual based upon behavioural data collected via APIs, this approach can be taken a step further where customers build credit to discount future policies. E.g., by using wearbles that measure heart rate, respiratory rate, and step count. These data suggest reduced risk for the insurer and reward programs can be built around such information to build customer relationship and loyalty.  
 
 
 ## Sources

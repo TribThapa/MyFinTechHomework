@@ -93,18 +93,6 @@ Despite several webpages comparing *CoverGenius* to other FinTech companies, _Ch
     - While the main focus is on the customer, Insurtech companies are now also trying to educate and enhance the experience of the employee to retain skills for the new market.
 
 
-## Results 
-
-#### *CoverGenius* metrics
-
-| Founding date       | 2014    |
-| Total Funding       | $22.3 m |
-| Latest Funding size | $10.7 m |
-| Time since last fu
-
-
-
-
 ## Recommendations
 - *CoverGenius* will need to promote the use of frictionless money (i.e., reduced transcation cost) to be appealing to customers outside of its main markets. Especially, for customers in Asia, Africa, and the Middle East where transcation fees are high.
 - To further their customer base, *CoverGenius* will need to think about potential customers withouth bank accounts. While digital transformation is central to the company's growth, it is also important to ensure those with limited access or from under-priviledged countries/cities/areas are not forgotton.

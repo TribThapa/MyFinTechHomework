@@ -22,7 +22,7 @@ The company's intended customers are those that use e-commercial platforms from 
 ![XCover](/Week1_10052021/Assignment/images/XCover_HowItWorks.JPG)
 
 ### XClaim
-![XClaim](/Week1_10052021Assignment/images/XClaim_HowItWorks.JPG)
+![XClaim](/Week1_10052021/Assignment/images/XClaim_HowItWorks.JPG)
 
 
 ### Versus the competition 

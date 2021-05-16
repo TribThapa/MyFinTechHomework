@@ -106,8 +106,6 @@ Despite several webpages comparing *CoverGenius* to other FinTech companies, _Ch
 
 ![InsuranceGif](/Week1_10052021/Assignment/images/Insruance.GIF)
 
-![Founders](/Week1_10052021/Assignment/images/Founders.JPG)
-
 
 ## Sources
 1. https://www.covergenius.com/

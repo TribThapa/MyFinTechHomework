@@ -95,13 +95,18 @@ Despite several webpages comparing *CoverGenius* to other FinTech companies, _Ch
 
 ## Recommendations
 - *CoverGenius* will need to promote the use of frictionless money (i.e., reduced transcation cost) to be appealing to customers outside of its main markets. Especially, for customers in Asia, Africa, and the Middle East where transcation fees are high.
-- To further their customer base, *CoverGenius* will need to think about potential customers withouth bank accounts. While digital transformation is central to the company's growth, it is also important to ensure those with limited access or from under-priviledged countries/cities/areas are not forgotton.
+- To further their customer base, *CoverGenius* will need to think about potential customers withouth bank accounts. While digital transformation is central to the company's growth, it is also important to ensure those with limited access or from under-priviledged countries/cities/areas are not forgotten.
 - Perhaps, a cashback rewards program similar to those used by many banks and e-commerce platforms can help finance accessing customers with no bank accounts.
 - As the business grows, *CoverGenius* will need to consider complementing indemnity of risk by risk prevention. An avenue worth exploring for market expansion and business scalabity.
 - Cryptocurrency is here to stay. While it is a volatile asset class, *CoverGenius* will need to consider including cryptocurrency in their current pricing model to access an untapped market. 
-- The adoption of cryptocurrency may also help ease pain points seen with Fiat currency. Example, in nations where their local currency is devalued or in countries where citizens want to avoid control from a central bank.
-- Further, the adoption of cryptocurrency, implies use of blockchain technology which can be used to safeguard customer data, recommend efficient insurance policies, and help build customer trust. Specially, in today's world where customer's are hesitant to share data for invasion of privacy.  
+- The adoption of cryptocurrency may also help ease pain points seen with Fiat currency. Specially, in nations where their local currency is devalued or in countries where citizens want to avoid control from a central bank.
+- Further, the adoption of cryptocurrency, implies use of blockchain technology which can be used to safeguard customer data, recommend efficient insurance policies underwritten by smart contracts, and help build customer trust. Specially, in today's world where customer's are hesitant to share data for invasion of privacy.
+- Blockchain technology and machine learning can also be used to detect fraud and insure payments and policies are tamper-proof. 
 - While *CoverGenius* personalises insurance policies to the individual based upon behavioural data collected via APIs, this approach can be taken a step further where customers build credit to discount future policies. E.g., by using wearbles that measure heart rate, respiratory rate, and step count. These data suggest reduced risk for the insurer and reward programs can be built around such information to build customer relationship and loyalty.  
+
+![InsuranceGif](/Week1_10052021/Assignment/images/Insruance.GIF)
+
+![Founders](/Week1_10052021/Assignment/images/Founders.JPG)
 
 
 ## Sources

@@ -2,14 +2,11 @@
 
 ![ProgrammingPic](https://github.com/TribT/MyFinTechHomework/blob/main/images/FinTech.gif)
 
-## My name is Tribikram Thapa (Rana) 
+### My name is Tribikram Thapa (Rana). I have a background in Physiotherapy, and currently work as a Research Fellow at Monash University
 
-### I have a background in Physiotherapy, and currently work as a Research Fellow at Monash University
+#### I aim to transition into finance with the hope of using blockchain technology in the banking sector. I chose FinTech as a course because it combines my passion in programming and finance.
 
-I aim to transition into finance with the hope of using blockchain technology in the banking sector. 
-
-I chose FinTech as a course because it combines my passion in programming and finance.
-
+##### This repository will contain my homework for units taught weekly. The folder names below are hyperlinked to their respective directories. 
 
 ### Table of contents
 
@@ -18,8 +15,8 @@ I chose FinTech as a course because it combines my passion in programming and fi
 - [images](https://github.com/TribThapa/MyFinTechHomework/tree/main/images/)
 - [pets](https://github.com/TribThapa/MyFinTechHomework/tree/main/pets/)
 - [references](https://github.com/TribThapa/MyFinTechHomework/tree/main/references/)
-- [Unit1Day3_Activity](https://github.com/TribThapa/MyFinTechHomework/tree/main/Unit1Day3_Activity/)
-- [Unit1_Assignment](https://github.com/TribThapa/MyFinTechHomework/tree/main/Unit1Day3_Assignment/)
+- [Week1_10052021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week1_10052021/)
+- [Week2_17052021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week2_17052021/)
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
 

@@ -104,7 +104,7 @@ Despite several webpages comparing *CoverGenius* to other FinTech companies, _Ch
 - Blockchain technology and machine learning can also be used to detect fraud and insure payments and policies are tamper-proof. 
 - While *CoverGenius* personalises insurance policies to the individual based upon behavioural data collected via APIs, this approach can be taken a step further where customers build credit to discount future policies. E.g., by using wearbles that measure heart rate, respiratory rate, and step count. These data suggest reduced risk for the insurer and reward programs can be built around such information to build customer relationship and loyalty.  
 
-![InsuranceGif](/Week1_10052021/Assignment/images/Insruance.GIF)
+![InsuranceGif](/Week1_10052021/Assignment/images/Insurance.gif)
 
 
 ## Sources

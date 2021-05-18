@@ -6,7 +6,7 @@
 
 *CoverGenius* came about when _Chris Bayley_ and _Angus McDonald_ had the vision of empowering the world's largest e-commerce companies to sell insurance products. This idea initially stemmed from _Chris Bayley_ who previoulsy ran the insurance team at Google. There he saw commerical opportunities for selling insurance online but felt he lacked the right model. Subsequently, they found an opportunity with a sizeable niche that was currenlty being overlooked - Car Rental Insurance. Then, the Car Rental Insurance industry was worth US $7 billion globally, of which US $6 billion was profit. 
 
-To test the waters, _Chris Bayley_ and _Angus McDonald_ engaged global insurers to provide car rental policies for their clients. However, they noticed the inability to provide insruance policies in short time frames and the archaic processes that got in the way. As a result, _Chris Bayley_ and _Angus McDonald_ took it upon themselves to esablish a company that provided insurance policies in this space.   
+To test the waters, _Chris Bayley_ and _Angus McDonald_ engaged global insurers to provide car rental policies for their clients. However, they noticed the inability to provide insurance policies in short time frames and the archaic processes that got in the way. As a result, _Chris Bayley_ and _Angus McDonald_ took it upon themselves to esablish a company that provided insurance policies in this space.   
 
 When establishing the company, *Cover Genius* was not VC funded and the small rounds were funded by London-based insurance executives including _Jim Sutcliffe_, former Chair of Sun Life Canada and _Julian Roberts_, former CEO of Old Mutual.
 
@@ -46,9 +46,9 @@ JLT Australia              | $149.6M |         680         |       N/A
 Despite several webpages comparing *CoverGenius* to other FinTech companies, _Chris Bayley_ claims their main competitors remain traditional insurers who lack the digital platform and the effeciency that comes with it. See [here.](https://www.ft.com/content/1d5aabcc-5d44-11ea-ac5e-df00963c20e6)
 
 ### A cornerstone to *CoverGenius'* success is its technology, which incldues:
-- _Brightwrite:_ a data analytics platform that recommends product bundles and optimizes price for any *CoverGenius* customer. 
+- _Brightwrite:_ a data analytics platform that recommends product bundles and optimises price for any *CoverGenius* customer. 
 - _API:_ used for seamless policy recommendation tailored to the customer and to ensure instant payments in any currency.
-- _HTML5_, _Google Analytics_, _jQuery_: used in APIs to access large amounts of data so recommended polcies are tailored to the customer.
+- _HTML5_, _Google Analytics_, _jQuery_: used in APIs to access large amounts of data so recommended policies are tailored to the customer.
 - _SPF_: stands for 'Sender Policy Framework' which is an email verification technology used to prevent email spoofing. It works by verifying that an email message is sent from an authorised IP address.
 - _SSL_: stands for 'Secure Sockets Layer' which is a protocol developed for sending information securely over the internet. Many websites use SSL to secure areas of their sites, such as user account pages and online checkout.
 
@@ -105,7 +105,7 @@ Despite several webpages comparing *CoverGenius* to other FinTech companies, _Ch
 - Cryptocurrency is here to stay. While it is a volatile asset class, *CoverGenius* will need to consider including cryptocurrency in their current pricing model to access an untapped market / customer base. 
 - The adoption of cryptocurrency may also help ease pain points seen with Fiat currency. Specially, in nations where their local currency is devalued or in countries where citizens want to avoid control from a central bank.
 - Further, the adoption of cryptocurrency, implies use of blockchain technology which can be used to safeguard customer data and recommend efficient insurance policies underwritten by smart contracts. This, subsequently, can help build customer trust - an aspect that is important for business growth in today's world where customer's are hesitant to share data for invasion of privacy.
-- Blockchain technology and machine learning can also be used to detect fraud and insure payments and policies are tamper-proof. 
+- Blockchain technology and machine learning can also be used to detect fraud and ensure payments and policies are tamper-proof. 
 - While *CoverGenius* personalises insurance policies to the individual based upon behavioural data collected via APIs, this approach can be taken a step further where customers build credit to discount future policies. E.g., wearbles that measure heart rate, respiratory rate, and step count can provide data to *CoverGenius* which in-turn can be used to dermine insurer's risk and accordingly, tailor rewards programs to the customer. This can help build customer relationship and loyalty.  
 
 <!---![InsuranceGif](/Week1_10052021/Assignment/images/Insurance.gif)--->

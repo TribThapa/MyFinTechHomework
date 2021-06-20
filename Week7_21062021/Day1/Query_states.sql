@@ -1,0 +1,14 @@
+-- SHOW FULL TABLE
+--SELECT * FROM states
+
+--SHOW ABBREVIATION COLUMN 
+--SELECT state_abbreviation FROM states
+
+-- SHOW DATA WHERE POPULATION > 5,000,000
+/*SELECT * FROM states 
+WHERE population > 5000000*/
+
+-- SHOW DATA WHERE POPULATION > 5,000,000 & STATE PROPERTY TAX RATE < 0.01
+SELECT * FROM states
+WHERE population > 5000000
+AND state_property_tax_rate < 0.01

@@ -8,12 +8,21 @@ WHERE film_id IN
 		SELECT inventory_id FROM rental
 		WHERE staff_id IN
 		(
-			SELECT staff_id FROM staff
-			WHERE first_name='Mike'
-			AND last_name='Hillyer'
+			(
+				SELECT staff_id FROM payment
+				WHERE staff_id IN				
+				(
+					SELECT staff_id FROM staff
+					WHERE first_name='Jon'
+					AND last_name='Stephens'
+				)
+			
+			)
+			
 		)
 	)
 );
+
 
 -- Find the total rental amount paid for the film `ACE GOLDFINGER`
 /*SELECT SUM(amount) FROM payment 

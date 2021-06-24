@@ -26,7 +26,7 @@
 
 	- There seems to be more miminmal transactions with Card Holder 2 as opposed to Card Holder 18.
     - Therefore, it may be harder to detect fraudulent $2 trasactions with Card Holder 2 because real trasactions may overshadow fraudulent ones.
-     - A better approach would be to isolate all transactions < $2 and determine when they happened and how many times they happened.
+    - A better approach would be to isolate all transactions < $2 and determine when they happened and how many times they happened.
     - This approach should be implemented for both Card Holders.
 
 

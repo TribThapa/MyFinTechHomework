@@ -65,14 +65,33 @@ LIMIT 5;
 
 
 --The two most important customers of the firm may have been hacked. Verify if there are any fraudulent transactions in their history. For privacy reasons, you only know that their cardholder IDs are 2 and 18.
-SELECT credit_card.cardholder_id, credit_card.card, 
-	   transactions.date,
-	   SUM(transactions.amount) AS "Total transactions",
-	   SUM(CASE WHEN transactions.amount<2 THEN 1 ELSE 0 END) AS "No. of transactions<$2"	   
-FROM transactions
-INNER JOIN credit_card ON credit_card.card=transactions.card
-WHERE credit_card.cardholder_id=2 OR credit_card.cardholder_id=18
-GROUP BY credit_card.card, credit_card.cardholder_id, transactions.date
+SELECT * FROM credit_card
+INNER JOIN transactions ON transactions.card=credit_card.card
+WHERE cardholder_id=2 OR cardholder_id=18
+	
 
+
+-- The CEO of the biggest customer of the firm suspects that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay quite expensive restaurant bills. 
+-- Again, for privacy reasons, you know only that the cardholder ID in question is 25.
+SELECT credit_card.cardholder_id, 
+	   EXTRACT(month from date) AS Month,
+	   EXTRACT(day from date) AS Day,
+	   transactions.amount
+FROM credit_card
+INNER JOIN transactions ON transactions.card=credit_card.card
+WHERE cardholder_id=25 
+
+
+
+-- Find anomalous transactions for 3 random card holders
+SELECT credit_card.cardholder_id, 
+	   EXTRACT(month from date) AS Month,
+	   EXTRACT(day from date) AS Day,
+	   transactions.amount
+FROM credit_card
+INNER JOIN transactions ON transactions.card=credit_card.card
+WHERE cardholder_id=7 OR cardholder_id=15 OR cardholder_id=21
+GROUP BY credit_card.cardholder_id, transactions.date, transactions.amount
+ORDER BY month;
 
 

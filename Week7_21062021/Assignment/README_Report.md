@@ -12,11 +12,11 @@
 
 ### What are the top 5 merchants prone to being hacked using small transactions?
 	The TOP 5 merchants prone to being hacked are 
-		- Megan Price
-		- Peter Mckay
-		- Stephanie Dalton
-		- Brandon Pineda
- 		- Matthew Gutierrez. 
+	- Megan Price
+	- Peter Mckay
+	- Stephanie Dalton
+	- Brandon Pineda
+ 	- Matthew Gutierrez. 
 
 
 
@@ -25,19 +25,19 @@
 ### What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale.
 
 	- There seems to be more miminmal transactions with Card Holder 2 as opposed to Card Holder 18.
-    	- Therefore, it may be harder to detect fraudulent $2 trasactions with Card Holder 2 because real trasactions may overshadow fraudulent ones.
-     	- A better approach would be to isolate all transactions < $2 and determine when they happened and how many times they happened.
-    	- This approach should be implemented for both Card Holders.
+    - Therefore, it may be harder to detect fraudulent $2 trasactions with Card Holder 2 because real trasactions may overshadow fraudulent ones.
+     - A better approach would be to isolate all transactions < $2 and determine when they happened and how many times they happened.
+    - This approach should be implemented for both Card Holders.
 
 
 ### Are there any outliers for cardholder ID 25? How many outliers are there per month?
 
 	Yes, there are outliers for all months except February. Here is the summary:
-		- January: 1
-		- March: 1
-		- April: 3
-		- May: 1
-		- June: 3
+	- January: 1
+	- March: 1
+	- April: 3
+	- May: 1
+	- June: 3
 
 
 #### Do you notice any anomalies? Describe your observations and conclusions.

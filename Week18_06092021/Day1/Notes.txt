@@ -1,0 +1,12 @@
+# Ethereum Case Study
+
+- Easy to make smart contracts
+- Develop applications with zero-downtime
+- Ether = coin = shares in Ethereum project
+
+- Transaction history is sored in a secure blockchain - with every node in the network storing a copy of this history
+- Payments processed in seconds 
+- Money transfer is seamless
+
+- Issue with getting the everyday Joe on board
+- Lack of education on Cryptocurrency & prevalent scam prevents on-boarding new people

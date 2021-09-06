@@ -1,0 +1,46 @@
+# Google It! Basic Terminology
+
+You will be researching common terms used in blockchain development. These will be used throughout the course.
+
+## Instructions
+
+Answer the following questions:
+
+1. What is a hash? 
+
+Ans: A unique fingerprint or a piece of data.
+
+
+
+2. What is a digital signature?
+
+Ans: Is an encryption key used to prive ownership or authenticity of data mathematically.
+
+
+
+3. What is a crypto wallet?
+
+Ans: A simple set of keys to your funds that are on the blockchain.
+
+
+
+4. What is a transaction?
+
+Ans: A signed message that authorises movement of funds between two parties. 
+
+
+
+5. What is a blockchain node?
+
+Ans: Is part of the blockchain that keeps a copy of the blockchain. This is done to verify the signature of every transaction and throws ouyt any that do not validate.
+
+
+
+6. What is a miner, or block producer?
+
+Ans: A miner / block producer is a special type of node that is working to solve computations to finalise transactions. Miners take the pending transactions from the nodes they are connected to an put them into a block.
+
+
+7. Who makes all of the rules of the blockchain?
+
+Ans: On-chain vs Off-chain governance.

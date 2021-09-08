@@ -1,0 +1,48 @@
+# Cryptography Use Cases
+
+In this activity, you will be researching different use cases of cryptography, and relating them to how you may have used cryptography before.
+
+## Instructions
+
+With groups up to three people in size, research and discuss the following:
+
+* What is Cryptography?
+Ans: is the method of protecting information and communications through the use of codes, so that only thsoe for whom the information is intended can read. 
+
+
+* What is a Digital Signature?
+Ans: is a mathematical scheme for verifying the authenticity of digital messages. 
+
+
+
+* What is Encryption?
+Ans: is a method that transforms information into a secret code. The secret code hides the information's true meaning. 
+
+
+* What is PGP (Pretty Good Privacy)?
+Ans: is an encryption program that provides cryptographic privacy and authentication for data communcation. PGP is used for signining, encrypting, and decrypting texts, e-mails, files, and directories.
+
+
+
+Talk with your partners about how you may have used cryptography in your life.
+
+* Why types of services use cryptography?
+Ans:
+- Time stamping is a technique that can certify that a certain electronic document or communication existed or was delivered at a certain time. 
+- Encryption is used in electronic money schemes to protect conventional transaction data like account numbers and transaction amounts, digital signatures can replace handwritten signatures or a credit-card authorizations, and public-key encryption can provide confidentiality.
+- Kerberos is an authentication service developed by MIT which uses secret-key ciphers for encryption and authentication. Kerberos was designed to authenticate requests for network resources and does not authenticate authorship of documents
+- Remailer is a free service that strips off the header information from an electronic message and passes along only the content. It's important to note that the remailer may retain your identity, and rather than trusting the operator, many users may relay their message through several anonymous remailers before sending it to its intended recipient. That way only the first remailer has your identity, and from the end point, it's nearly impossible to retrace.
+- Disk encryption programs encrypt your entire hard disk so that you don't have to worry about leaving any traces of the unencrypted data on your disk.
+- You know that the banks are doing something to ensure that the cash withdrawal from your ATM remains a safe procedure. Although you really don’t need to know all the hows and whys, you should note that we’re talking about encryption here, too. This type of encryption is called HSM, or Hardware Security Module encryption. This method protects the privacy of your PIN, as well as that of other sensitive information that’s stored on your credit or debit card. In essence, HSM encryption makes sure that the cybercriminals can’t intercept your PIN during the network data exchange, i.e. your interaction with the ATM.
+- The way pay-TV encryption works is it scrambles the data it sends to your receiver - in this case, video and audio. The only way for your receiver to decrypt the data is to use the exact correct algorithm and security keys, made specifically for decrypting the program.
+- 
+
+
+* Would you trust these services without the use of cryptography?
+No, due to privacy invasion.
+
+Write down your answers to the above questions and be prepared to share them with the class.
+
+---
+
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

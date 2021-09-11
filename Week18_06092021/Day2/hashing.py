@@ -42,7 +42,6 @@ print(message_new_one, hash(message_new_one))
 print(message_new_two, hash(message_new_two))
 
 # compare the hashes in an if/else statement
-
 hash_new_one = hash(message_new_one)
 
 hash_new_two = hash(message_new_two)
@@ -53,6 +52,5 @@ else:
     print(hash_new_two)
 
 # compare the length of the hashes
-
 print(f"Length of Hash_New_One is {len(hash_new_one)}")
 print(f"Length of Hash_New_Two is {len(hash_new_two)}")

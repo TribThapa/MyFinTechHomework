@@ -1,0 +1,9 @@
+Node 1:
+
+./geth --datadir node1 --unlock "BFE23A43246709eF5adB398651C8d124Bf83593C" --mine --minerthreads 1
+
+Node 2:
+
+./geth --datadir node2 --unlock "d5FA0f65ACa26BA0548f05BCa409C9A550520d62" --port 30304 --rpc --bootnodes "enode://9770e32fd5b9ebc0b83bebc9d69ad90887cc8b971eb10cc7d654839bd7263b83ba30da4321653892fa7d71afc5480dab001371f308933c67c5592a2065@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
+
+

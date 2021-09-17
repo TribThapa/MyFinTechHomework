@@ -86,7 +86,7 @@ Create [python script](https://github.com/TribThapa/MyFinTechHomework/blob/main/
 Add one of the `ETH` addresses to the pre-allocated accounts in your `networkname.json`
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/7_MatchAddress.JPG" width="500" height="300">
+   	<img src="/Week19_13092021/Assignment/Images/7_MatchAddress.JPG" width="300" height="300">
  </p>
 
 

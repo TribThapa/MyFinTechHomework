@@ -14,15 +14,13 @@ the script into your backend with your dear old friend, Python.
 Once you've integrated this "universal" wallet, you can begin to manage billions of addresses across 300+ coins, giving
 you a serious edge against the competition.
 
-In this assignment, however, you will only need to get 2 coins working: Ethereum and Bitcoin Testnet.
-Ethereum keys are the same format on any network, so the Ethereum keys should work with your custom networks or testnets.
 
 ## Step 1a: 
 Fund a `BTCTEST` address using [this testnet faucet](https://testnet-faucet.mempool.co/)
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/1_BTC1.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/1_BTC1.JPG" width="400" height="500">
  </p>
 
 <p>&nbsp;</p>
@@ -34,7 +32,7 @@ Here's another way to send test net BTC using [an alternative testnet faucet](ht
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/2_BTC2.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/2_BTC2.JPG" width="400" height="500">
  </p>
 
 
@@ -46,7 +44,7 @@ Confirm transaction using [this webpage](https://www.blockchain.com/explorer?vie
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/3_BTC3.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/3_BTC3.JPG" width="400" height="500">
  </p>
 
 <p>&nbsp;</p>
@@ -88,7 +86,7 @@ Create [python script](https://github.com/TribThapa/MyFinTechHomework/blob/main/
 Add one of the `ETH` addresses to the pre-allocated accounts in your `networkname.json`
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/7_MatchAddress.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/7_MatchAddress.JPG" width="500" height="300">
  </p>
 
 
@@ -99,7 +97,7 @@ Add one of the `ETH` addresses to the pre-allocated accounts in your `networknam
 Delete the `geth` folder in each node, then re-initialize using `geth --datadir nodeX init networkname.json`.
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/8_Reinitialised.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/8_Reinitialised.JPG" width="500" height="300">
  </p>
 
 <p>&nbsp;</p>
@@ -109,5 +107,5 @@ Delete the `geth` folder in each node, then re-initialize using `geth --datadir 
 Send a transaction from the pre-funded address within the wallet to another
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/9_SendToken.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/9_SendToken.JPG" width="500" height="400">
  </p>

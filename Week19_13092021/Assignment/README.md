@@ -17,7 +17,8 @@ you a serious edge against the competition.
 In this assignment, however, you will only need to get 2 coins working: Ethereum and Bitcoin Testnet.
 Ethereum keys are the same format on any network, so the Ethereum keys should work with your custom networks or testnets.
 
-## 
+## Step 1: Fund a `BTCTEST` address using [this testnet faucet](https://testnet-faucet.mempool.co/)
+
 
  <p align="center">
    	<img src="/Week19_13092021/Assignment/Images/1_BTC1.JPG" width="200" height="300">

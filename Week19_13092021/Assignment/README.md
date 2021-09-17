@@ -55,7 +55,7 @@ Create Proof-of-Authority nodes
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/4_poanodes.JPG" width="500" height="500">
+   	<img src="/Week19_13092021/Assignment/Images/4_poanodes.JPG">
  </p>
 
 <p>&nbsp;</p>

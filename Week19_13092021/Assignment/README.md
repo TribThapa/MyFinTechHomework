@@ -47,3 +47,31 @@ Confirm transaction using [this webpage](https://www.blockchain.com/explorer?vie
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+## Step 3: 
+Create Proof-of-Authority nodes
+
+
+ <p align="center">
+   	<img src="/Week19_13092021/Assignment/Images/4_poanodes.JPG" width="500" height="500">
+ </p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Step 4: 
+Confirm nodes are created in local directory 
+
+ <p align="center">
+   	<img src="/Week19_13092021/Assignment/Images/5_POA.JPG" width="500" height="500">
+ </p>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Step 5: 
+Create [python script](https://github.com/TribThapa/MyFinTechHomework/blob/main/Week19_13092021/Assignment/wallet.py)to connect your blockchain with Python
+
+ <p align="center">
+   	<img src="/Week19_13092021/Assignment/Images/6_WalletFunc.JPG" width="500" height="500">
+ </p>

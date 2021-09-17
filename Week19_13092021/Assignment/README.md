@@ -97,7 +97,7 @@ Add one of the `ETH` addresses to the pre-allocated accounts in your `networknam
 Delete the `geth` folder in each node, then re-initialize using `geth --datadir nodeX init networkname.json`.
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/8_Reinitialised.JPG" width="500" height="300">
+   	<img src="/Week19_13092021/Assignment/Images/8_Reinitialised.JPG">
  </p>
 
 <p>&nbsp;</p>
@@ -107,5 +107,5 @@ Delete the `geth` folder in each node, then re-initialize using `geth --datadir 
 Send a transaction from the pre-funded address within the wallet to another
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/9_SendToken.JPG" width="500" height="400">
+   	<img src="/Week19_13092021/Assignment/Images/9_SendToken.JPG">
  </p>

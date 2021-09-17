@@ -22,14 +22,14 @@ Fund a `BTCTEST` address using [this testnet faucet](https://testnet-faucet.memp
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/1_BTC1.JPG" width="200" height="300">
+   	<img src="/Week19_13092021/Assignment/Images/1_BTC1.JPG" width="500" height="500">
  </p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/2_BTC2.JPG" width="200" height="300">
+   	<img src="/Week19_13092021/Assignment/Images/2_BTC2.JPG" width="500" height="500">
  </p>
 
 
@@ -41,7 +41,7 @@ Confirm transaction using [this webpage](https://www.blockchain.com/explorer?vie
 
 
  <p align="center">
-   	<img src="/Week19_13092021/Assignment/Images/3_BTC3.JPG" width="200" height="300">
+   	<img src="/Week19_13092021/Assignment/Images/3_BTC3.JPG" width="500" height="500">
  </p>
 
 <p>&nbsp;</p>

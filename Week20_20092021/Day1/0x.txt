@@ -1,0 +1,47 @@
+# Smart Contracts in Action
+Since launching 0x version 1 in August 2017, the 0x core team has grown from six to fifteen team members (we’re still hiring). As our organization has grown, we’ve found that our mission and values have become increasingly important in keeping the team aligned not only in our efforts but also around the guiding principles we use to make decisions. By communicating our organization’s mission, vision, and core values externally we hope to provide the community with a stronger sense of why we are working on 0x today and how we view our role as early (but not permanent) stewards of the ecosystem.
+
+## The problem
+
+The primary determinant of an individual’s economic freedom and opportunity in life boils down to the geographic region they are born into. The lucky find themselves in a country where the government provides the populace with a voice, an education, uncensored access to the internet, sound economic policies and a minimal level of government corruption. Simply put, most people are not this lucky. Blockchains give us an opportunity to leave the geographic lottery behind by establishing an open and globally accessible financial system that acts as a potent equalizing force for the world.
+
+## The vision
+
+We envision a world in which all forms of value are tokenized on public blockchains. This includes fiat currencies, stocks, bonds, commodities, debt instruments, real estate, video game items, digital collectibles, software licenses, reputation and much more. Combined with a set of open financial primitives, we can build a global financial system that is more efficient, transparent, and equitable than any system that has existed in the past. This new infrastructure will be free to use and run on open source code, stripping away layers of middlemen and providing individuals with greater financial sovereignty.
+
+## Our mission
+
+- We have spent considerable time deliberating our mission statement over the past year and have gone through no less than eight brainstorming sessions. We challenged ourselves to think towards our true north star, a mission statement that captures the ambitious nature of building an open financial system for the world and that perpetually inspires and guides the team. Core ideas we were looking to incorporate included building public infrastructure, making assets more accessible, more liquid, and empowering enterprising teams around the world to build a new financial system. We are thrilled to finally share our mission statement with the community.
+- Create a tokenized world where all value can flow freely.
+- We believe public blockchains have potential to act as a potent equalizing force for the world. As more assets are tokenized and moved onto blockchain rails, public blockchains have a greater chance of democratizing access to financial services in the same way that the internet has democratized access to information.
+
+Workshop Cafe in San Francisco (June 2017). 
+Ben Burns, Amir Bandeali, Alex Xu and I ideating on our mission statement before we had an office.
+
+Our core values
+Our core values guide hiring, product, and organizational decisions. They are derived from the principles we have followed since 0x began. Our values might seem like common sense (and frankly, they are) but we believe passion, persistence, and a strong sense of ethics allow our organization to best serve our community.
+
+DO THE RIGHT THING
+We hold ourselves to a high moral standard as individuals and as an organization.
+We are creating an entirely new paradigm for global exchange, and over time, envision 0x protocol serving as the rails for the exchange of many trillions of dollars in tokenized assets. As stewards of global financial infrastructure, we must think carefully about our actions and always act judiciously. Even seemingly small decisions we make today can radically alter the economies and power structures of tomorrow. It’s our duty to deploy resources responsibly in service of our mission.
+
+We are united by the belief that decentralized networks will serve as an equalizing force in the world. With time, governance over the protocol’s development will itself become decentralized, driven by stakeholders. We strive to empower this ecosystem to create a more just, equitable future.
+We acknowledge the broad subjectivity behind doing “the right thing,” and are committed to rigorously exploring its nuance in our decision making. We believe this responsibility drives our decision making above all else, and pledge to act in the best interest of our peers, community, and society as a whole.
+
+2. CONSISTENTLY SHIP
+Achieving our mission requires dedication and diligence. We aspire to be an organization that consistently ships. We set high-impact goals that are rooted in data and pride ourselves in consistently outputting outstanding results across the organization. Clear dialogue and metrics ensure our team has the best information available to them in order to efficiently execute on their tasks, no matter where they are in the world.
+
+We also believe in enjoying life. We recognize that we are only at our best when we’re rested, fulfilled, and taken care of in matters both inside and outside of work. We afford our team a great deal of trust in how they manage their affairs, and value output and impact over hours on the clock. We will always foster an inclusive environment that encourages growth, psychological safety, balance, and health.
+
+3. FOCUS ON LONG-TERM IMPACT
+The societal implications of a decentralized financial system will take time to manifest. It’s crucial that we remain focused on long-term impact and measure our progress over sufficiently long time scales. We value deep intellectual curiosity. We celebrate creativity and the consideration of diverse viewpoints, and understand that we must be in a constant state of learning in a field as rapidly evolving as ours. We are committed to leading by example, making decisions without ego and accepting responsibility when we are wrong.
+We anticipate that over time, awareness of the fundamentally disruptive nature of frictionless global exchange will cause some to see this technology as a threat. There will be setbacks, some will claim that this technology is too disruptive, and we will face adversity. Persistence and a healthy long-term focus will see us through these battles.
+
+
+## References
+
+* [0x - The protocol for trading tokens](https://0x.org/)
+
+* [0x missions](https://blog.0xproject.com/the-0x-mission-and-values-181a58706f9f)status.im/)
+
+

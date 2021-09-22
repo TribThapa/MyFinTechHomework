@@ -1,7 +1,7 @@
-## Making contracts with SOLIDITY
+## Making smart contracts with SOLIDITY
 
 <p align="center">
-   	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="1200" height="400">
+   	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="1200" height="500">
 </p>
 
 <p>&nbsp;</p>

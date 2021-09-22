@@ -1,11 +1,8 @@
 ## Making contracts with SOLIDITY
 
 <p align="center">
-   	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="700" height="300">
+   	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="900" height="300">
 </p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 ## AssociateProfitSplitter 

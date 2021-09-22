@@ -3,7 +3,7 @@
 ![AssociateProfitSplitter](Images/SOL_ETH.png)
 
 <p align="center">
-   	<img src="/Images/SOL_ETH.png" width="700" height="300">
+   	<img src="/Assignment/Images/SOL_ETH.png" width="700" height="300">
 </p>
 
 <p>&nbsp;</p>

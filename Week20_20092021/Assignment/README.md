@@ -1,4 +1,4 @@
-# Making contracts with SOLIDITY
+## Making contracts with SOLIDITY
 
 <p align="center">
  	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="900" height="300>

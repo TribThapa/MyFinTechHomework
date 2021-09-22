@@ -1,5 +1,9 @@
 # Making contracts with SOLIDITY
 
+  <p align="center">
+   	<img src="/Week20_20092021/Images/SOL_ETH.png">
+  </p>
+
 ## AssociateProfitSplitter 
 
 This contract will accept Ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently. Below is a screenshot of the contract.

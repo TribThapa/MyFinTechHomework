@@ -22,7 +22,7 @@ contract TieredProfitSplitter {
         uint total;
         uint amount;
 
-        // @TODO: Calculate and transfer the distribution percentage
+        // Calculate and transfer the distribution percentage
         // employee_one 
         amount = points * 60;
         total += amount; 

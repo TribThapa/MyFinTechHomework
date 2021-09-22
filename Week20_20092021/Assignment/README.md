@@ -1,7 +1,7 @@
 # Making contracts with SOLIDITY
 
   <p align="center">
-   	<img src="/Week20_20092021/Images/SOL_ETH.png">
+   	<img src="/MyFinTechHomework/Week20_20092021/Assignment/Images/SOL_ETH.png">
   </p>
 
 ## AssociateProfitSplitter 

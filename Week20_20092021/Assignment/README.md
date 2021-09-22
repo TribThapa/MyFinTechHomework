@@ -2,7 +2,7 @@
 
 ## AssociateProfitSplitter 
 
-![AssociateProfitSplitter](AssociateProfitSplitter_PreConfirm.JPG)
+![AssociateProfitSplitter](Images/AssociateProfitSplitter_PreConfirm.JPG)
 
 ![AssociateProfitSplitter](AssociateProfitSplitter_Ganache.JPG)
 

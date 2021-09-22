@@ -1,5 +1,7 @@
 ## Making contracts with SOLIDITY
 
+![AssociateProfitSplitter](Images/SOL_ETH.png)
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 

@@ -1,7 +1,7 @@
 # Making contracts with SOLIDITY
 
 <p align="center">
- 	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="900>
+ 	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="900" height="300>
 </p>
 
 <p>&nbsp;</p>
@@ -13,11 +13,7 @@
 
 This contract will accept Ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently. Below is a screenshot of the contract.
 
-<p align="center">
- 	<img src="Images/AssociateProfitSplitter_PreConfirm.JPG>
-</p>
-
-#![AssociateProfitSplitter](Images/AssociateProfitSplitter_PreConfirm.JPG)
+![AssociateProfitSplitter](Images/AssociateProfitSplitter_PreConfirm.JPG)
 
 Below is a screenshot of the tested transaction.
 

@@ -1,8 +1,11 @@
 # Making contracts with SOLIDITY
 
   <p align="center">
-   	<img src="https://github.com/TribThapa/MyFinTechHomework/blob/main/Week20_20092021/Assignment/Images/SOL_ETH.png" width="700>
+   	<img src="/TribThapa/MyFinTechHomework/blob/main/Week20_20092021/Assignment/Images/SOL_ETH.png" width="700>
   </p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## AssociateProfitSplitter 
 
@@ -14,6 +17,9 @@ Below is a screenshot of the tested transaction.
 
 ![AssociateProfitSplitter](Images/AssociateProfitSplitter_Ganache.JPG)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ## TieredProfitSplitter
 This contract will distribute different percentages of incoming ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%. Below is a screenshot of the contract.
 
@@ -22,6 +28,9 @@ This contract will distribute different percentages of incoming ether to employe
 Below is a screenshot of the tested transaction.
 
 ![TieredProfitSplitter](Images/TieredProfitSplitter_Ganache.JPG)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## DeferredEquityPlan
 This contract will automatically manage 1000 shares, with an annual distribution of 250 shares over four years for a single employee. Below is a screenshot of the contract.

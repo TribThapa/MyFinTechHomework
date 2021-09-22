@@ -2,9 +2,12 @@
 
 ![AssociateProfitSplitter](Images/SOL_ETH.png)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p align="center">
+   	<img src="/Images/SOL_ETH.png" width="700" height="300">
+</p>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## AssociateProfitSplitter 

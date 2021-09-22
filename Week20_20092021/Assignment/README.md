@@ -1,8 +1,8 @@
 # Making contracts with SOLIDITY
 
-  <p align="center">
-   	<img src="/TribThapa/MyFinTechHomework/blob/main/Week20_20092021/Assignment/Images/SOL_ETH.png" width="700>
-  </p>
+<p align="center">
+ 	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="700>
+</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

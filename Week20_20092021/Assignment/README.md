@@ -13,9 +13,11 @@ This contract will accept Ether into the contract, and divide it evenly among as
 
 ![AssociateProfitSplitter](Images/AssociateProfitSplitter_PreConfirm.JPG)
 
-Below is a screenshot of the tested transaction.
+Below are screenshots of the tested transaction.
 
 ![AssociateProfitSplitter](Images/AssociateProfitSplitter_Ganache.JPG)
+
+![AssociateProfitSplitter_Tx](Images/AssociateProfitSplitter_Ganache_Tx.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -25,9 +27,11 @@ This contract will distribute different percentages of incoming ether to employe
 
 ![TieredProfitSplitter](Images/TieredProfitSplitter_PreConfirm.JPG)
 
-Below is a screenshot of the tested transaction.
+Below are screenshots of the tested transaction.
 
 ![TieredProfitSplitter](Images/TieredProfitSplitter_Ganache.JPG)
+
+![TieredProfitSplitter_Tx](Images/TieredProfitSplitter_Ganache_Tx.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -37,6 +41,8 @@ This contract will automatically manage 1000 shares, with an annual distribution
 
 ![DeferredEquityPlan](Images/DeferredEquityPlan_PreConfirm.JPG)
 
-Below is a screenshot of the tested transaction.
+Below are screenshots of the tested transaction.
 
 ![DeferredEquityPlan](Images/DeferredEquityPlan_Ganache.JPG)
+
+![DeferredEquityPlan_Tx](Images/DeferredEquityPlan_Ganache_Tx.JPG)

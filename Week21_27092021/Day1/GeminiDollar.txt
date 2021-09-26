@@ -1,0 +1,82 @@
+We build crypto products that are simple, elegant, and secure. Whether you are an individual or an institution, we want to help you buy, sell, and store your bitcoin and cryptocurrency.
+
+The four pillars of Gemini
+We are committed to earning and maintaining your trust. We believe that in order to do so, we must invest in our four pillars for the long-term, as they are the inputs that generate a trust output.
+
+Product
+
+Security
+
+Licensing
+
+Compliance
+
+Crypto has the capacity to force a redesign of the Internet, our financial system, and money in a way that fosters and protects the rights and dignity of the individual. If we are successful, we could make as great of a contribution to personal freedom as the invention of the printing press, the personal computer, and the early, open Internet.
+
+Crypto is not just a technology, it’s a movement. But it won’t happen unless we build simple, elegant, and secure ways for individuals and institutions around the world to discover and interact with this new frontier.
+
+We founded Gemini with a “security-first” mentality and ethos of asking for permission, not forgiveness. We have worked hard to provide you with a high-integrity choice and we look forward to earning and maintaining your trust.
+
+Gemini is a New York trust company regulated by the New York State Department of Financial Services (NYSDFS). We are subject to capital reserve requirements, cybersecurity requirements, and banking compliance standards set forth by the NYSDFS and the New York Banking Law. Gemini is also a fiduciary and Qualified Custodian.
+
+
+What Is Gemini Dollar (GUSD)?
+The Gemini Trust Company (Gemini) is a digital currency exchange and custodian that allows you to buy, sell and store digital assets, founded in February of 2014. The GUSD is created by the cryptocurrency exchange Gemini.
+
+The company received approval from the New York Department of Financial Services or NYDFS to launch the stablecoin in September of 2018. It is regarded as one of the first stablecoin, much like Paxos. The Gemini Trust Company holds USD deposits that correspond to the number of tokens that are in circulation.
+
+When it comes to the Gemini Dollar itself, it is an ERC-20 token that is built on the Ethereum network and has smart contracts that are audited by the security company Trail of Bits Inc.
+
+This dollar is intended to bridge the divide between traditional finance and the crypto industry, due to the fact that this specific stablecoin is completely regulated by the NYDFS.
+
+Who Are the Founders of Gemini Dollar?
+The founders of the Gemini Dollar (GUSD) are Tyler Winklevoss and Cameron Winklevoss.
+
+Tyler Winklevoss is the co-founder and CEO at Gemini, as well as the president of WinkDex and the co-founder of Winkevoss Capital. Tyler Winklevoss is also an advisor at Rowing Blazers.
+
+Cameron Winklevoss is the co-founder and president at Gemini, as well as the CEO of WinkDex and the co-founder of Winkevoss Capital. Cameron Winklevoss is also an advisor at Rowing Blazers.
+
+They both graduated at Harvard University with a Bachelor of Economics in 2004 and got a Master of Business Administration (MBA) at the University of Oxford Saïd Business School.
+
+What Makes Gemini Dollar Unique?
+The Gemini Dollar is the first U.S. dollar-backed stablecoin to get backing from a U.S. regulatory body. It is an ERC-20 token that is built on Ethereum.
+
+The Gemini Dollar differentiates from Bitcoin and other traditional cryptocurrencies in the way that it is able to maintain a steady value. This is unlike Bitcoin, for example, which can have extreme price fluctuations. To achieve this stability in terms of value, there are certain things that are deployed. This can be done through advanced computation, or binding a value to underlying assets such as flat currencies such as USD, EUR or even gold. The Gemini Dollar is designed to provide a transparent regulatory complaint connection between the traditional financial systems and the blockchain industry as a whole.
+
+Related Pages:
+Learn more about Bytom.
+
+Learn more about Tether.
+
+Learn about GPU mining here.
+
+Catch up on the latest crypto news on our CoinMarketCap blog.
+
+How Many Gemini Dollar (GUSD) Coins Are There in Circulation?
+The Gemini Dollar can be traded on 41 exchanges, and had an all-time high value of $1.3435.
+
+To verify that the necessary 1:1 peg is backed by dollars, the deposit balance at Gemini’s U.S. bank is examined on a monthly basis by LLP, BPM and independently registered public accounting firms.
+
+How Is the Gemini Dollar Network Secured?
+The Gemini Dollar is an ERC-20 token that is built on the Ethereum network. It has smart contracts that are audited by security company Trial of Bits Inc.
+
+All of the private keys that are used to sign cryptocurrency transactions are custodied offsite in the secure, guarded and geographically distributed facilities on a cloud storage system.
+
+The keys exist on hardware security modules also known as HSMs that meet or exceed U.S. government computer security standards such as FIPS 140–2 Level 3.
+
+Multisignature technology, also known as multisig, is also implemented and provides an added layer of security from attacks and increased fault tolerance.
+
+Multiple signatories are required in order to transfer funds out of cloud storage. This means that Tyler Winklevoss and Cameron Winklevoss are unable to individually or jointly transfer customer funds into or out of the hot wallet or cloud storage system.
+
+Where Can You Buy Gemini Dollar (GUSD)?
+Gemini Dollar or GUSD can be purchased, sold and traded on several exchanges, including:
+
+Hoo
+
+XT
+
+DigiFinex
+
+BitMart
+
+OKEx

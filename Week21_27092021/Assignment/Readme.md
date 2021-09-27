@@ -15,7 +15,7 @@ It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `Refun
 You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
 
 <p align="center">
-   	<img src="/Week20_20092021/Assignment/Images/SOL_ETH.png" width="1200" height="500">
+   	<img src="/Week21_27092021/Assignment/Images/CrowdSale.jpg" width="1200" height="500">
 </p>
 
 <p>&nbsp;</p>

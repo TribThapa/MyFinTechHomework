@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 contract JointSavings {
-  address payable account_one = 0xc3879B456DAA348a16B6524CBC558d2CC984722c;
+  address payable account_one = 0xcC7EbAAaA14dFb82eEE14aEd6D9B7139f601941D;
   address payable account_two = 0xA29f7E79ECEA4cE30DD78cfeb9605D9aFf5143a5;
 
   address public last_to_withdraw;
@@ -24,9 +24,9 @@ contract JointSavings {
 
     last_withdraw_block = block.number;
     last_withdraw_amount = amount;
-    
-    if (amount > address(this).balance /3){
-        unlock_time = now + 24 hours;
+
+    if (amount > address(this).balance / 3) {
+      unlock_time = now + 24 hours;
     }
 
     msg.sender.transfer(amount);

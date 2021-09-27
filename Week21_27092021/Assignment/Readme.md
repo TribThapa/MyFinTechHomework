@@ -14,10 +14,10 @@ It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `Refun
 
 You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
 
-![CrowdSale](Images/CrowdSale.jpg)
+![CrowdSale](Images/CrowdSale2.jpg)
 
 <p align="center">
-   	<img src="/Week21_27092021/Assignment/Images/CrowdSale.jpg" width="1000" height="300">
+   	<img src="/Week21_27092021/Assignment/Images/CrowdSale2.jpg" width="1000" height="300">
 </p>
 
 <p>&nbsp;</p>

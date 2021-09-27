@@ -14,8 +14,6 @@ It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `Refun
 
 You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
 
-![CrowdSale](Images/CrowdSale2.jpg)
-
 <p align="center">
    	<img src="/Week21_27092021/Assignment/Images/CrowdSale2.jpg" width="1000" height="500">
 </p>
@@ -23,7 +21,7 @@ You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## AssociateProfitSplitter 
+## [PupperCoin in Solidity](PupperCoinCrowdsale.sol) 
 
 This contract will accept Ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently. Below is a screenshot of the contract.
 

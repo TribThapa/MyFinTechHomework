@@ -23,28 +23,35 @@ You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a
 
 ## [PupperCoin in Solidity](PupperCoinCrowdsale.sol) 
 
-This contract will accept Ether into the contract, and divide it evenly among associate-level employees. This will allow the human resources department to pay employees quickly and efficiently. Below is a screenshot of the contract.
+Step 1: Bootstrap the contract, provide parameters for all features of crowdsale, and compile.
 
 ![Compile](Images/1_Compiled.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 2: Check parameters before deploying
+
 ![Deploy](Images/2_Deploy.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+Step 3: Test deployment
 
 ![3Deploy](Images/3_Deploy.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 4: Validate deployment via blocks generated in Ganache.
+
 ![Blockchain](Images/4_BlockCreation.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 5: Ensure detailes in the trasaction record match details in the block on Ganache
 ![Tx](Images/5_Tx_Ganache.JPG)
 
 <p>&nbsp;</p>

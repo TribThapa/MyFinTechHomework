@@ -25,7 +25,8 @@ contract JointSavings {
     last_withdraw_block = block.number;
     last_withdraw_amount = amount;
     
-    unlock_time = now + 24 hours;
+    // unlock_time = now + 24 hours;
+    unlock_time = now + 10 seconds;
 
     msg.sender.transfer(amount);
   }

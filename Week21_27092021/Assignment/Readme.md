@@ -17,7 +17,7 @@ You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a
 ![CrowdSale](Images/CrowdSale2.jpg)
 
 <p align="center">
-   	<img src="/Week21_27092021/Assignment/Images/CrowdSale2.jpg" width="1000" height="300">
+   	<img src="/Week21_27092021/Assignment/Images/CrowdSale2.jpg" width="1000" height="700">
 </p>
 
 <p>&nbsp;</p>

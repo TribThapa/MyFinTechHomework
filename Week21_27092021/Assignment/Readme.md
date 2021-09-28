@@ -51,30 +51,35 @@ Step 4: Validate deployment via blocks generated in Ganache.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Step 5: Ensure detailes in the trasaction record match details in the block on Ganache
+Step 5: Ensure detailes in the transaction record match details in the block on Ganache
 ![Tx](Images/5_Tx_Ganache.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 6: Re-deploy if you're happy with all parameters in the steps above.
 ![2ndDeploy](Images/6_Deploy.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 7: Check deployed contract, and copy token_address for the next step.
 ![AddTokenAddress](Images/7_TokenAddresses.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 8: At token_address to 'At Address' tab, and check PupperCoinSale contract options.
 ![PupperCoin](Images/8_PupperCoin_CrowdSale.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 9: Select the Ganache address you want to use to buy tokens.
 ![Beneficiary](Images/9_Beneficiary.JPG)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+Step 10: Test the transaction.
 ![BuyTokens](Images/10_BuyTokens.JPG)

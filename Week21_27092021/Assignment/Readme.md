@@ -72,7 +72,7 @@ Step 7: Check deployed contract, and copy token_address for the next step.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Step 8: At token_address to 'At Address' tab, and check PupperCoinSale contract options.
+Step 8: At token_address to `At Address` tab, and check PupperCoinSale contract options.
 
 ![PupperCoin](Images/8_PupperCoin_CrowdSale.JPG)
 

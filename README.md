@@ -2,7 +2,7 @@
 
 ![ProgrammingPic](https://github.com/TribT/MyFinTechHomework/blob/main/images/FinTech.gif)
 
-##### This repository will contain my homework for units taught weekly. The folder names below are hyperlinked to their respective directories. 
+##### This repository contains a collection of tools thaat can be used to run and build various FinTech packages. The folder names below are hyperlinked to their respective directories. 
 
 ### Table of contents
 

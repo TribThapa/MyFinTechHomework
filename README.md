@@ -9,7 +9,6 @@
 - [code](https://github.com/TribThapa/MyFinTechHomework/tree/main/code/)
 - [data](https://github.com/TribThapa/MyFinTechHomework/tree/main/data/)
 - [images](https://github.com/TribThapa/MyFinTechHomework/tree/main/images/)
-- [pets](https://github.com/TribThapa/MyFinTechHomework/tree/main/pets/)
 - [references](https://github.com/TribThapa/MyFinTechHomework/tree/main/references/)
 - [Week1_10052021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week1_10052021/)
 - [Week2_17052021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week2_17052021/)

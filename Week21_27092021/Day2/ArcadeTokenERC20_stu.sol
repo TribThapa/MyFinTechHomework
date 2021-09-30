@@ -5,26 +5,22 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 
 contract ArcadeToken is ERC20, ERC20Detailed {
     address payable owner;
-
+    
+    // Allows is to restrict our other functions in the same way that we set them to public or payable
+    // _ tells Solidity to return tot he function that called the modifier 
     modifier onlyOwner {
-        // @TODO: add a `require` to check if `owner` is the `msg.sender`
-        require (owner == msg.sender, "You are not the owner!");
-        
-        _; // this underscore sends us back to the function that called this modifier
+        require(msg.sender == owner, "You do not have permission to mint these tokens!");
+        _;
     }
 
-    // @TODO: Pass the required parameters to `ERC20Detailed`
-    constructor(uint initial_supply) ERC20Detailed("ArcadeToken", "ARCD", 18) public {
-        // @TODO: Set the owner to be `msg.sender`
+    // ERC20Detailed constructor (string memory name, string memory symbol, uint8 decimals) public
+    // show gretter functions private v public
+    constructor(uint initial_supply) ERC20Detailed("TriCoin", "TRC", 18) public {
         owner = msg.sender;
-
-        // @TODO: Call the internal `_mint` function to give `initial_supply` to the `owner`
-        _mint(owner, initial_supply);
+        _mint(owner, initial_supply); //mint with the address and the amount you want to mint
     }
 
-    // @TODO: Add the `onlyOwner` modifier to this function after `public`
-    function mint(address recipient, uint amount) public {
-        // @TODO: Call the internal `_mint` function and pass the `recipient` and `amount` variables
+    function mint(address recipient, uint amount) public onlyOwner {
         _mint(recipient, amount);
     }
 }

@@ -1,0 +1,141 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "reference_uri",
+				"type": "string"
+			}
+		],
+		"name": "copyrightWork",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "copyright_id",
+				"type": "uint256"
+			},
+			{
+				"name": "new_owner",
+				"type": "address"
+			}
+		],
+		"name": "transferCopyrightOwnership",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "copyright_id",
+				"type": "uint256"
+			}
+		],
+		"name": "renounceCopyrightOwnership",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "reference_uri",
+				"type": "string"
+			}
+		],
+		"name": "openSourceWork",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"name": "copyrights",
+		"outputs": [
+			{
+				"name": "owner",
+				"type": "address"
+			},
+			{
+				"name": "uri",
+				"type": "string"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "copyright_id",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "owner",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "reference_uri",
+				"type": "string"
+			}
+		],
+		"name": "Copyright",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "copyright_id",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "reference_uri",
+				"type": "string"
+			}
+		],
+		"name": "OpenSource",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"name": "copyright_id",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "new_owner",
+				"type": "address"
+			}
+		],
+		"name": "Transfer",
+		"type": "event"
+	}
+]

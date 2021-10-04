@@ -1,26 +1,27 @@
 pragma solidity ^0.5.0;
 
-// @TODO: Import ArcadeTokenMintable from ./ArcadeTokenMintable_stu_v2.sol
-
+import "./ArcadeTokenMintable_stu_v1.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
 
 contract ArcadeTokenSale is Crowdsale, MintedCrowdsale {
 
-    // @TODO: Build the constructor, passing in the parameters that Crowdsale needs
     constructor(
-        uint rate,
-        address payable wallet,
-        ArcadeToken token
+        uint rate, // rate in TKNbits
+        address payable wallet, // sale beneficiary
+        ArcadeToken token // the ArcadeToken itself that the ArcadeTokenSale will work with
     )
-        Crowdsale (rate, wallet, token)
+        Crowdsale(rate, wallet, token)
         public
-    
+    {
+        // constructor can stay empty
+    }
 }
 
 contract ArcadeTokenSaleDeployer {
 
-    // @TODO: Add public addresses to keep track of the token_address and arcade_sale_address
+    address public arcade_sale_address;
+    address public token_address;
 
     constructor(
         string memory name,
@@ -29,15 +30,15 @@ contract ArcadeTokenSaleDeployer {
     )
         public
     {
-        // @TODO: create the ArcadeToken and keep its address handy
-        ArcadeToken = new ArcadeToken(name, symbol, 0);
+        // create the ArcadeToken and keep its address handy
+        ArcadeToken token = new ArcadeToken(name, symbol, 0);
         token_address = address(token);
 
-        // @TODO: create the ArcadeTokenSale and tell it about the token, then keep its address handy
+        // create the ArcadeTokenSale and tell it about the token
         ArcadeTokenSale arcade_sale = new ArcadeTokenSale(1, wallet, token);
         arcade_sale_address = address(arcade_sale);
 
-        // @TODO: make the ArcadeTokenSale contract a minter, then have the ArcadeTokenSaleDeployer renounce its minter role
+        // make the ArcadeTokenSale contract a minter, then have the ArcadeTokenSaleDeployer renounce its minter role
         token.addMinter(arcade_sale_address);
         token.renounceMinter();
     }

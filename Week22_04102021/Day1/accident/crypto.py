@@ -34,9 +34,16 @@ def convertDataToJSON(time, description):
     }
     return json.dumps(data)
 
-
 def pinJSONtoIPFS(json):
-    # Post the JSON object to Pinata according to their API spec
-    r = requests.post("https://api.pinata.cloud/KeyOne", data=json, headers=headers)
+    r = requests.post(
+        "https://api.pinata.cloud/pinning/pinJSONToIPFS", data=json, headers=headers
+    )
     ipfs_hash = r.json()["IpfsHash"]
     return f"ipfs://{ipfs_hash}"
+
+
+# def pinJSONtoIPFS(json):
+#     # Post the JSON object to Pinata according to their API spec
+#     r = requests.post("https://api.pinata.cloud/KeyOne", data=json, headers=headers)
+#     ipfs_hash = r.json()["IpfsHash"]
+#     return f"ipfs://{ipfs_hash}"

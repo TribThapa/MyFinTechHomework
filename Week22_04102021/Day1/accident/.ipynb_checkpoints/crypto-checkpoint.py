@@ -11,15 +11,16 @@ from pathlib import Path
 
 headers = {
     "Content-Type": "application/json",
-    "pinata_api_key": os.getenv("PINATA_API_KEY"),
-    "pinata_secret_api_key": os.getenv("PINATA_SECRET_API_KEY"),
+    "pinata_api_key": "44c0f17b183a5dba8b63",
+    "pinata_secret_api_key": "55988f6dfa5880ccb8b5e1e3fed2e139a510fc7c2f117bfa33c8076ed9d5333a",
 }
 
 
+# Talks to the json file which contains data from your Smart Contract
 def initContract():
     with open(Path("CryptoFax.json")) as json_file:
         abi = json.load(json_file)
-    return w3.eth.contract(address=os.getenv("CRYPTOFAX_ADDRESS"), abi=abi)
+    return w3.eth.contract("0x17AA686030d34c13E0f5082F234BFafA7761aC7A", abi=abi)
 
 def convertDataToJSON(time, description):
     data = {

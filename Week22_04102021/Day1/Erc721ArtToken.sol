@@ -3,39 +3,42 @@ pragma solidity ^0.5.0;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/drafts/Counters.sol";
 
+contract ArtRegistry is ERC721Full {
 
-contract CryptoFax is ERC721Full {
-
-    constructor() ERC721Full("CryptoFax", "CARS") public { }
+    constructor() ERC721Full("ArtToken", "ART") public { }
 
     using Counters for Counters.Counter;
     Counters.Counter token_ids;
 
-    struct Car {
-      string vin; 
-      uint accidents;
+    struct Artwork {
+        string name;
+        string artist;
+        uint appraisal_value;
     }
     
-    mapping(uint => Car) public cars;
-  
-    event Accident(uint token_id, string report_uri);
+    // art_collection is assigned as a number
+    mapping(uint => Artwork) public art_collection; 
+    
+    // a way of storing and logging information to make it accessible for non-blockchain apps
+    event Appraisal(uint token_id, uint appraisal_value, string report_uri); 
 
-    function registerVehicle(address owner, string memory vin, string memory token_uri) public returns(uint) {
-      token_ids.increment();
-      uint token_id = token_ids.current();
-      
-      _mint(owner, token_id);
-      _setTokenURI(token_id, token_uri);
-      
-      cars[token_id] = Car(vin, 0);
-      return token_id;
+    function registerArtwork(address owner, string memory name, string memory artist, uint initial_value, string memory token_uri) public returns(uint) {
+        token_ids.increment();
+        uint token_id = token_ids.current();
+
+        _mint(owner, token_id);
+        _setTokenURI(token_id, token_uri);
+
+        art_collection[token_id] = Artwork(name, artist, initial_value);
+
+        return token_id;
     }
 
-    function reportAccident(uint token_id, string memory report_uri) public returns(uint) {
-       cars[token_id].accidents += 1;
-       
-       emit Accident(token_id, report_uri);
-       
-       return cars[token_id].accidents;
+    function newAppraisal(uint token_id, uint new_value, string memory report_uri) public returns(uint) {
+        art_collection[token_id].appraisal_value = new_value;
+
+        emit Appraisal(token_id, new_value, report_uri);
+
+        return art_collection[token_id].appraisal_value;
     }
 }

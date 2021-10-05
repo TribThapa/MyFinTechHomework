@@ -23,7 +23,7 @@ def createAccidentReport():
 def reportAccident(token_id, report_uri):
     # Create a reportAccident transaction using cryptofax contract and return the tx receipt (make sure to set a 'from' account)
     tx_hash = cryptofax.functions.reportAccident(token_id, report_uri).transact(
-        {"from": w3.eth.accounts[0]}
+        {"from": w3.eth.accounts[0]})
     
     receipt = w3.eth.waitForTransactionReceipt(tx_hash)
     return receipt
@@ -32,7 +32,7 @@ def reportAccident(token_id, report_uri):
 def getAccidentReports(token_id):
     # Create an Accident filter, filtering against token_id, and return all entries
     accident_filter = cryptofax.events.Accident.createFilter(fromBlock="0x0",
-                                                             argument_filters={"token_id": token_id}
+                                                             argument_filters={"token_id": token_id})
     return accident_filter.get_all_entries()
                                                              
 

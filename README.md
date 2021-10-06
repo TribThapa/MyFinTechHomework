@@ -28,7 +28,7 @@
 - [Week19_13092021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week19_13092021/)
 - [Week20_20092021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week20_20092021/)
 - [Week21_27092021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week21_27092021/)
-
+- [Week22_04102021](https://github.com/TribThapa/MyFinTechHomework/tree/main/Week22_04102021/)
 
 <!--- [![Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TribT&show_icons=true&theme=dark)](https://github.com/TribT/github-readme-stats)--->
 
